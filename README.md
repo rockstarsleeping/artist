@@ -1,3 +1,3 @@
 # artist
-<a href="rockstarsleeping.github.io/artist">Preview</a>
+<a href="http://rockstarsleeping.github.io/artist">Preview</a>
 
