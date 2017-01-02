@@ -1,0 +1,35 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="artist.com" resolutions="1x" timestamp="1483388951696">
+  <folder name="css">
+    <file name="site_global.css" crc="3833674587"/>
+    <file name="master_a-master.css" crc="515721323" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="340288214" ref="index"/>
+    <file name="index.css" crc="231669880" ref="index"/>
+    <file name="nomq_index.css" crc="4166993481" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-128018x107.svg" crc="22475858" seo="true" ref="index"/>
+    <file name="pasted svg 128018x107_poster_.png" crc="3845289825" ref="index"/>
+    <file name="girl-painting-blur.jpg" crc="3984474681" ref="index"/>
+    <file name="paiting-girl-pencil-ink-moment-beautiful-eyes-art-wallpaper.jpg" crc="3832572754" ref="index"/>
+    <file name="paiting-girl-pencil-ink-moment-beautiful-eyes-art-wallpaper-u6477-fr.jpg" crc="2317781" ref="index"/>
+    <file name="pasted-svg-90x74.svg" crc="113291460" seo="true" ref="index"/>
+    <file name="pasted svg 90x74_poster_.png" crc="263406604" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3931987501" seo="true" mt="1483388759245" redirect="true"/>
+</manifest>
